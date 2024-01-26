@@ -22,11 +22,17 @@ const Projects = () => {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
+              href="https://ashu-30781.github.io/car-one-website/"
               imgPath={lift}
               isBlog={false}
-              title="Lift-Buddy"
-              description="This online ride-sharing platform boasts a responsive front-end design, complete with an admin panel built using React and Material-UI. With the integration of Google Maps API, users can easily access directions on the map. The platform allows for full CURD functionality on profiles and posts, and users can confirm or cancel a ride from a post and message each other after confirmation. Additionally, users can easily reset their password. The back-end is powered by a Node Express server and utilizes MongoDB for the database management."
-              ghLink="https://github.com/19sajib/lift-buddy"
+              title="car-one-website"
+              description="Car-One is a car rental website that makes renting process of a car easy
+              Working on my on in this project currently and The idea behind this project to make
+              changes in
+              some traditional ways of renting with the help of technology and a new way of renting
+              Technologies used in website HTML,CSS,JAVASCRIPT."
+              ghLink=""
+              demoLink="https://project-krypto.netlify.app/"
             />
           </Col>
 
@@ -34,39 +40,9 @@ const Projects = () => {
             <ProjectCard
               imgPath={project}
               isBlog={false}
-              title="Social Media"
-              description="This platform features a responsive interface built with Reactjs and CSS, allowing users to easily manage their profiles and posts through CRUD activities. The option to follow other users and interact with their posts (like or dislike) is also available, with suggestions for new users to follow. Users can only view posts from their followed users and can only engage in chat with those they follow. The backend is powered by Nodejs and Expressjs server, while MongoDB is utilized as the database."
-              ghLink="https://github.com/19sajib/social-media"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={kickstart}
-              isBlog={false}
-              title="E‑Commerce Website"
-              description="This ecommerce website utilizes a REST API built with Nodejs and Expressjs, allowing for easy CRUD operations on user profiles, products and admin panel. The user interface is designed for efficient product management and includes a complete purchase process. The admin panel, accessible for CRUD on users and products, includes a chart for statistics display. Stripe API is integrated to handle customer payments. The website uses MongoDB and Firebase as the database."
-              ghLink="https://github.com/19sajib/mern-stack-ecommerce"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={pg}
-              isBlog={false}
-              title="Blog Website"
-              description="This blogging application features a RESTful API server built with Nodejs and Expressjs. The data is retrieved from the API server and displayed on a user-friendly interface designed using React, Redux, and styled-components for a seamless experience."
-              ghLink="https://github.com/19sajib/mern-blog-app"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={krypto}
-              isBlog={false}
-              title="Project Krypto"
-              description="Project Krypto is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It allows users to interact with their Metamask wallet and send Ethereum."
-              ghLink="https://github.com/19sajib/Project-Krypto-Web-3.0"
+              title="Amazon-clone"
+              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui Technologies used in website HTML,CSS,JAVASCRIPT."
+              ghLink="https://github.com/ashu-30781/amazon-clone"
               demoLink="https://project-krypto.netlify.app/"
             />
           </Col>
@@ -75,9 +51,58 @@ const Projects = () => {
             <ProjectCard
               imgPath={kickstart}
               isBlog={false}
-              title="Solidity Kickstart"
-              description="Solidity Kickstart is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It includes all the functionality of a kickstart platform, enabling users to interact with their Metamask wallet, transfer Ethereum and participate in kickstart campaigns."
-              ghLink="https://github.com/19sajib/Solidity-Kickstart"
+              title="E‑Commerce Website"
+              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui Technologies used in website HTML,CSS,JAVASCRIPT"
+              ghLink="https://github.com/ashu-30781?tab=repositories"
+              demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pg}
+              isBlog={false}
+              title="Ghost Pong"
+              description=" Ghost Pong is an ping pong game that uses java script for logical funmctions
+              Working on my on in this project currently
+              Technologies used in website HTML,CSS,JAVASCRIPT Ghost Pong is an ping pong game that uses java script for logical funmctions
+              Working on my on in this project currently
+              Technologies used in website HTML,CSS,JAVASCRIPT  ."
+              ghLink="https://github.com/ashu-30781/ghost-pong"
+              demoLink="https://ashu-30781.github.io/ghost-pong/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={krypto}
+              isBlog={false}
+              title="Weather App with js"
+              description="
+              Real-time Weather Information with latest Api use
+              Technologies used in website HTML,CSS,JAVASCRIPT
+              Real-time Weather Information with latest Api use
+              Technologies used in website HTML,CSS,JAVASCRIPT
+              Real-time Weather Information with latest Api use
+              Technologies used in website HTML,CSS,JAVASCRIPT"
+              ghLink="https://github.com/ashu-30781/Weather-App-with-js"
+              demoLink="https://ashu-30781.github.io/Weather-App-with-js/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={kickstart}
+              isBlog={false}
+              title="Zoomcar clone"
+              description="Real-time Weather Information with latest Api use
+              Technologies used in website HTML,CSS,JAVASCRIPT
+              Real-time Weather Information with latest Api use
+              Technologies used in website HTML,CSS,JAVASCRIPT
+              Real-time Weather Information with latest Api use
+              Technologies used in website HTML,CSS,JAVASCRIPT"
+              ghLink="https://github.com/ashu-30781/zoomcar-clone-main"
+              demoLink="https://ashu-30781.github.io/zoomcar-clone-main/"
             />
           </Col>
         </Row>
