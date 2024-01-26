@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ashu-30781/portfolio-Ashu/static/css/main.305d4cc2.css",
+    "main.js": "/ashu-30781/portfolio-Ashu/static/js/main.749dc373.js",
+    "static/media/kickstart.png": "/ashu-30781/portfolio-Ashu/static/media/kickstart.e27936ec3fc35c1b6808.png",
+    "static/media/krypto.png": "/ashu-30781/portfolio-Ashu/static/media/krypto.ca0e8bf963cc76cfe26c.png",
+    "static/media/project.jpeg": "/ashu-30781/portfolio-Ashu/static/media/project.7063238598429f9a1f79.jpeg",
+    "static/media/home-main.svg": "/ashu-30781/portfolio-Ashu/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/ashu-30781/portfolio-Ashu/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/lift.png": "/ashu-30781/portfolio-Ashu/static/media/lift.37d5e75bcb0994102a34.png",
+    "static/media/Ashutosh.pdf": "/ashu-30781/portfolio-Ashu/static/media/Ashutosh.575dcb200d075fc4bcb0.pdf",
+    "static/media/home-bg.jpg": "/ashu-30781/portfolio-Ashu/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/ashutosh.png": "/ashu-30781/portfolio-Ashu/static/media/ashutosh.9fa397277e5857693cd4.png",
+    "static/media/pg.png": "/ashu-30781/portfolio-Ashu/static/media/pg.0d0d8ff689849d3d367c.png",
+    "static/media/pre.svg": "/ashu-30781/portfolio-Ashu/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/ashu-30781/portfolio-Ashu/index.html",
+    "main.305d4cc2.css.map": "/ashu-30781/portfolio-Ashu/static/css/main.305d4cc2.css.map",
+    "main.749dc373.js.map": "/ashu-30781/portfolio-Ashu/static/js/main.749dc373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.305d4cc2.css",
+    "static/js/main.749dc373.js"
+  ]
+}
