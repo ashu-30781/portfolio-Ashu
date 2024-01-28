@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "ashutosh-portfolio-359bd",
+    "public": "y",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
