@@ -1,3 +1,9 @@
+
+# Ashutosh kumar  Portfolio
+## Demo
+
+http://192.168.29.245:3000/
+
 ## Features
 
 **📖 Multi-Page Layout**
@@ -22,8 +28,17 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. 
 The page will reload if you make edits.
 
-<br />
+
 Feel free to contribute to this repo.
 
-### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
+ 🧠 Happy Hacking 🧠 
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+![Logo](https://raw.githubusercontent.com/ashu-30781/portfolio-Ashu/main/src/assets/ashutosh.png)
+
